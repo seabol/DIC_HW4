@@ -1,1 +1,1 @@
-# DIC HW4 Verilog 
+# DIC HW4 Verilog  Max-Priority Queue
